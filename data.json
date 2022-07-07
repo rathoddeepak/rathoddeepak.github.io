@@ -1,8 +1,8 @@
 [
   {
-    name:'Appointment Mangement App',
-    desc:'Create and manage appoiment easily',
-    techStack:[{name:'React Native',color:'#213E97'}, {name:'Node JS',color:'#52057F'}],
-    images:['','','']
+    "name":'Appointment Mangement App',
+    "desc":'Create and manage appoiment easily',
+    "techStack":[{name:'React Native',color:'#213E97'}, {name:'Node JS',color:'#52057F'}],
+    "images":['','','']
   }
 ]
